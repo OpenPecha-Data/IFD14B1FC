@@ -1,15 +1,16 @@
-id: opecha:P008027
+id: P008027
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016999
   title: གྲུབ་ཆེན་ཏཻ་ལོ་པ་ཤེས་རབ་བཟང་པོའི་རྣམ་ཐར
-  volume:
+  author: ''
+  volumes:
     f2804f878f7b4611b5fcdc85d77cc8f5:
       image_group_id: I00EGS1017003
       title: Volume 1 of grub chen tai lo pa shes rab bzang po'i rnam thar
       volume_number: 1
       total_pages: 118
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་ཆེན་ཏཻ་ལོ་པ་ཤེས་རབ་བཟང་པོའི་རྣམ་ཐར
   author: ''
